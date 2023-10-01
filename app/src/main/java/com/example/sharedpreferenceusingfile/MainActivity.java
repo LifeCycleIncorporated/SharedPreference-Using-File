@@ -45,8 +45,6 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
-
-
     }
 
     public void writeToFile(String text) {
